@@ -3,10 +3,10 @@
 [![wakatime](https://wakatime.com/badge/user/63de9485-00c0-493e-9221-2040c60b02a2.svg)](https://wakatime.com/@63de9485-00c0-493e-9221-2040c60b02a2) - since Mar 18 2026
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=VeridonNetzwerk&theme=moltack&hide_border=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=VeridonNetzwerk&theme=great-gatsby&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VeridonNetzwerk&theme=moltack&hide_border=true&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VeridonNetzwerk&theme=great-gatsby&hide_border=true&layout=compact&langs_count=8&card_width=320" />
 </a><br><br>
 
 <samp>I first got interested in programming in 2018 when I watched my brother write a small Python script to organize folders. It wasn’t anything crazy, but the idea that you could *tell a computer what to do* and it would just do it felt fascinating to me.</samp>
