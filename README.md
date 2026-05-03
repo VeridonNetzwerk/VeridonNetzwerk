@@ -2,6 +2,8 @@
 
 [![wakatime](https://wakatime.com/badge/user/63de9485-00c0-493e-9221-2040c60b02a2.svg)](https://wakatime.com/@63de9485-00c0-493e-9221-2040c60b02a2) - since Mar 18 2026
 
+[About me](https://tabemono.me/)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=VeridonNetzwerk&theme=great-gatsby&hide_border=true" />
 </a>
