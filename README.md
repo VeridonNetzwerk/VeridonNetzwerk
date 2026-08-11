@@ -4,11 +4,11 @@
 
 [About me](https://tabemono.me/)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=VeridonNetzwerk&theme=great-gatsby&hide_border=true" />
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img height=200 align="center" src="https://raw.githubusercontent.com/VeridonNetzwerk/VeridonNetzwerk/main/profile-summary-card-output/dracula/0-profile-details.svg" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VeridonNetzwerk&theme=great-gatsby&hide_border=true&layout=compact&langs_count=8&card_width=320" />
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img height=200 align="center" src="https://raw.githubusercontent.com/VeridonNetzwerk/VeridonNetzwerk/main/profile-summary-card-output/dracula/2-most-commit-language.svg" />
 </a><br><br>
 
 <samp>I first got interested in programming in 2018 when I watched my brother write a small Python script to organize folders. It wasn’t anything crazy, but the idea that you could *tell a computer what to do* and it would just do it felt fascinating to me.</samp>
